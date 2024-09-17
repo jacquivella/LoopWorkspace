@@ -267,7 +267,6 @@ jobs:
           override_sens \
           now_line \
           2hlollipop \
-          meal_days \
           meal_week \
           profiles \
           basal_lock \
